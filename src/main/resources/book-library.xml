@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<lib:col xmlns:lib="http://ipergenitsa.github.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://ipergenitsa.github.com book-library-scheme.xsd">
+    <lib:book>abc</lib:book>
+</lib:col>
